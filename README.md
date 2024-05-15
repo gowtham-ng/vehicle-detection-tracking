@@ -17,10 +17,10 @@ End-to-end processing latency under 400 seconds for a workload of 100 videos
 ## Getting Started
   ### Prerequisites
   
-  Python 3.6+
-  PyTorch 1.7+
-  OpenCV
-  FFmpeg
+  - Python 3.6+
+  - PyTorch 1.7+
+  - OpenCV
+  - FFmpeg
 
 ## Installation
 
