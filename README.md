@@ -45,6 +45,7 @@ Usage
 1. Prepare the input video dataset in the input_videos/ directory.
 2. Run the vehicle detection and tracking pipeline:
 `python main.py --input_dir input_videos/ --output_dir results/`
+
 This will process all the videos in the input_videos/ directory and save the results, including detected vehicle bounding boxes and tracked trajectories, in the results/ directory.
 
 ## Contributing
