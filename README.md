@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-Copy codegit clone https://github.com/yourusername/vehicle-detection-tracking.git
+Copy codegit clone https://github.com/gowtham-ng/vehicle-detection-tracking.git
 
 Install the required packages:
 
